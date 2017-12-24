@@ -1,0 +1,349 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$$anonfun$2.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$1.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$2.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$1.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$AutomateScalafmtPlugin$autoImport$$anonfun$$anonfun$$update$1$1$$anonfun$apply$4.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$AutomateScalafmtPlugin$autoImport$$anonfun$$anonfun$$update$1$1.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$apply$5.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$apply$6.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$format$1$1.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$.class
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin.class
+binary dependencies:
+17 items
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/com.geirsson/scalafmt-bootstrap_2.10/jars/scalafmt-bootstrap_2.10-0.6.6.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/cache/jars/cache-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/incremental-compiler/jars/incremental-compiler-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/tracking/jars/tracking-0.13.15.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.ivy2/cache/scala_2.10/sbt_0.13/com.geirsson/sbt-scalafmt/jars/sbt-scalafmt-0.6.6.jar
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /Users/furuhashitomoki/.sbt/boot/scala-2.10.6/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$$anonfun$2
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$2
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$AutomateScalafmtPlugin$autoImport$$anonfun$$anonfun$$update$1$1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$AutomateScalafmtPlugin$autoImport$$anonfun$$anonfun$$update$1$1$$anonfun$apply$4
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$apply$5
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$apply$6
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$format$1$1
+used names:
+189 items
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> $p1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> $p2
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> +:
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> --
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> /
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> :=
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> <byname>
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> <init>
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> <refinement>
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> <repeated>
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> A
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AList
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Analysis
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Any
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AnyRef
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AnyValManifest
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutoPlugin
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> AutomateScalafmtPlugin
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> B
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Boolean
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> C
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> CanBuildFrom
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> ChangeReport
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Coll
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Compile
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Compiler
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Configuration
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> D
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Def
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> E
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> F
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> File
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> FileFilter
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> FileFunction
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> FilesInfo
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> FullInstance
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Function0
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Function1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Function2
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> GenTraversableOnce
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> HashFileInfo
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Id
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Initialize
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> InitializeInstance
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> InputWrapper
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Inputs
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Int
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> K
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Keys
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> LinePosition
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> List
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Logger
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> M
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> MacroValue
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> ManifestFactory
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> NameFilter
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Nothing
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Object
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Option
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> PathFinder
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> PlainFileInfo
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> PluginTrigger
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Predef
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> ProjectRef
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> ProjectReference
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Reference
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> RichFile
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> S
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> ScalafmtBootstrap
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> ScalafmtPlugin
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Scoped
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Seq
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Set
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Setting
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> SettingKey
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> SourcePosition
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> String
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> StringOps
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Style
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T2
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T2List
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T3
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T4
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T5
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T6
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> T6List
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Task
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> TaskKey
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> TaskStreams
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Test
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> That
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Traversable
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Tuple2
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Tuple6
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Types
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> U
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Unit
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> UpdateFunction
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> Z
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _$1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _$71
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _$72
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _1
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _2
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _3
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _4
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _5
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _6
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> _root_
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> allRequirements
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> app
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> apply
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> augmentString
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> autoImport
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> automateScalafmtFor
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> bootstrap
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> c
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> cache
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> cacheDirectory
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> cached
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> canBuildFrom
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> collection
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> compile
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> compileInputs
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> configurations
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> count
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> counted
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> descendantsExcept
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> display
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> exclude
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> excludeFilter
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> exists
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> files
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> filesArg
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> filesToFinder
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> flatMap
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> foreach
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> format
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> formattingHandler
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> get
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> getAbsolutePath
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> globFilter
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> handler
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> hash
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> immutable
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> in
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> inConfig
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> inc
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> include
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> includeFilter
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> info
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> label
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> log
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> macroValueI
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> macroValueIT
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> main
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> map
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> mkString
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> modified
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> msg
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> nonEmpty
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> org
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> package
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> pure
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> reflect
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> removed
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> richFile
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> sbt
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> scala
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> scalaSource
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> scalafmt
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> scalafmtInc
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> set
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> size
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> sourceDirectories
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> sources
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> streams
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> taskKey
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> thisProjectRef
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> toITask
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> toSet
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> tuple2
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> tuple6
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> update
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> value
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> wrapInitTask_☃☃
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> wrapInit_☃☃
+product stamps:
+14 items
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$$anonfun$2.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$1.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$2.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$1.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$AutomateScalafmtPlugin$autoImport$$anonfun$$anonfun$$update$1$1$$anonfun$apply$4.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$AutomateScalafmtPlugin$autoImport$$anonfun$$anonfun$$update$1$1.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$apply$5.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$apply$6.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3$$anonfun$format$1$1.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1$$anonfun$apply$3.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$$anonfun$automateScalafmtFor$1.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin$autoImport$.class -> lastModified(1513944716000)
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/target/scala-2.10/sbt-0.13/classes/AutomateScalafmtPlugin.class -> lastModified(1513944716000)
+source stamps:
+1 items
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> hash(e9e1a1ea1dbda7c79a86066faa471de228440ce0)
+binary stamps:
+17 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1505382647000)
+/Users/furuhashitomoki/.ivy2/cache/com.geirsson/scalafmt-bootstrap_2.10/jars/scalafmt-bootstrap_2.10-0.6.6.jar -> lastModified(1490015458000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.15.jar -> lastModified(1491768642000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.15.jar -> lastModified(1491768439000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/cache/jars/cache-0.13.15.jar -> lastModified(1491768456000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.15.jar -> lastModified(1491768426000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/incremental-compiler/jars/incremental-compiler-0.13.15.jar -> lastModified(1491768616000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.15.jar -> lastModified(1491768418000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.15.jar -> lastModified(1491768558000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.15.jar -> lastModified(1491768500000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.15.jar -> lastModified(1491768572000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.15.jar -> lastModified(1491768632000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.15.jar -> lastModified(1491768623000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.15.jar -> lastModified(1491768517000)
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/tracking/jars/tracking-0.13.15.jar -> lastModified(1491768486000)
+/Users/furuhashitomoki/.ivy2/cache/scala_2.10/sbt_0.13/com.geirsson/sbt-scalafmt/jars/sbt-scalafmt-0.6.6.jar -> lastModified(1490015508000)
+/Users/furuhashitomoki/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> lastModified(1442568926000)
+class names:
+17 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_152.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/furuhashitomoki/.ivy2/cache/com.geirsson/scalafmt-bootstrap_2.10/jars/scalafmt-bootstrap_2.10-0.6.6.jar -> org.scalafmt.bootstrap.ScalafmtBootstrap
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/actions/jars/actions-0.13.15.jar -> sbt.Compiler$
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.15.jar -> sbt.appmacro.Instance$
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/cache/jars/cache-0.13.15.jar -> sbt.FilesInfo$
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.15.jar -> sbt.AList
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/incremental-compiler/jars/incremental-compiler-0.13.15.jar -> sbt.inc.Analysis$
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.15.jar -> sbt.PathFinder
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.15.jar -> sbt.Configuration
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/logging/jars/logging-0.13.15.jar -> sbt.Logger
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.15.jar -> sbt.std.InitializeInstance$
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.15.jar -> sbt.AutoPlugin
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.15.jar -> sbt.package$
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.15.jar -> sbt.std.TaskStreams
+/Users/furuhashitomoki/.ivy2/cache/org.scala-sbt/tracking/jars/tracking-0.13.15.jar -> sbt.FileFunction$
+/Users/furuhashitomoki/.ivy2/cache/scala_2.10/sbt_0.13/com.geirsson/sbt-scalafmt/jars/sbt-scalafmt-0.6.6.jar -> org.scalafmt.sbt.ScalafmtPlugin
+/Users/furuhashitomoki/.sbt/boot/scala-2.10.6/lib/scala-library.jar -> scala.collection.immutable.List
+internal apis:
+1 items
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwfa6hmQAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAnc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw/S8K/nQABmlzUm9vdHNxAH4ADAyeHKZ0AAZub3RpZnlzcQB+AAwqP18idAAVcHJvamVjdENvbmZpZ3VyYXRpb25zc3EAfgAMIuliu3QAE2F1dG9tYXRlU2NhbGFmbXRGb3JzcQB+AAxx5GhPdAAEd2FpdHNxAH4ADODZqbJ0AA9kZXJpdmVkUHJvamVjdHNzcQB+AAwEI+AEdAANJGFzSW5zdGFuY2VPZnNxAH4ADCUf76p0AAVlbXB0eXNxAH4ADG5hJN10AA1leHRyYVByb2plY3Rzc3EAfgAM4m2CIHQABmVxdWFsc3NxAH4ADGhPXuZ0AAlub1RyaWdnZXJzcQB+AAx/iMO4dAAMYXNJbnN0YW5jZU9mc3EAfgAMpr++WHQADHN5bmNocm9uaXplZHNxAH4ADCa3ra10AAd1bmFyeV8hc3EAfgAM2tn6bnQABWxhYmVsc3EAfgAMNxDge3QADSRpc0luc3RhbmNlT2ZzcQB+AAwVu9YBdAAPYWxsUmVxdWlyZW1lbnRzc3EAfgAMH/1RBnQAD2lzQWx3YXlzRW5hYmxlZHNxAH4ADBhhjZl0AAlub3RpZnlBbGxzcQB+AAz21kaxdAAWQXV0b21hdGVTY2FsYWZtdFBsdWdpbnNxAH4ADHcoq5R0AAxpc0luc3RhbmNlT2ZzcQB+AAylqTLZdAAOZ2xvYmFsU2V0dGluZ3NzcQB+AAxazmItdAAPcHJvamVjdFNldHRpbmdzc3EAfgAMLIgbqHQAAj09c3EAfgAMgX2ZwHQABWNsb25lc3EAfgAMSUJnWHQABiRpbml0JHNxAH4ADAdm13t0AAh0b1N0cmluZ3NxAH4ADKeb90p0AAhyZXF1aXJlc3NxAH4ADBfD2590AAIhPXNxAH4ADOJ47AF0AAImJnNxAH4ADArM7lN0AAhnZXRDbGFzc3NxAH4ADBgFUMV0AAJuZXNxAH4ADIOMdQN0AAphdXRvSW1wb3J0c3EAfgAMk0vpd3QADWJ1aWxkU2V0dGluZ3NzcQB+AAzg/DaSdAACZXFzcQB+AAyPo2ZddAACIyNzcQB+AAznP1bpdAAIZmluYWxpemVzcQB+AAx/7XcRdAAIaGFzaENvZGVzcQB+AAwRBKzBdAAHdHJpZ2dlcnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cABxAH4ANXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgAheHNidGkuYXBpLkFic3RyYWN0TGF6eSRTdHJpY3RMYXp5DWYcaykWKrgCAAFMAAV2YWx1ZXQAEkxqYXZhL2xhbmcvT2JqZWN0O3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AfHNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBlTAAJaW5oZXJpdGVkcQB+AGVMAAdwYXJlbnRzcQB+AGV4cQB+AIFzcQB+AHx1cQB+AGAAAAAAc3EAfgB8dXEAfgBgAAAAAHNxAH4AfHVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAGc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AgHQACkF1dG9QbHVnaW5zcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQAA3NidHNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCac3EAfgCNdAAQUGx1Z2luc0Z1bmN0aW9uc3EAfgCTc3EAfgCNdAAFQmFzaWNzcQB+AI10AAdQbHVnaW5zcQB+AJNzcQB+AI10AAdQbHVnaW5zcQB+AJNzcQB+AI10AAZPYmplY3RzcQB+AJFzcQB+AJR1cQB+AJcAAAADc3EAfgCZdAAEamF2YXNxAH4AmXQABGxhbmdxAH4AnnNxAH4AjXQAA0FueXNxAH4AkXNxAH4AlHVxAH4AlwAAAAJzcQB+AJl0AAVzY2FsYXEAfgCedXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWB+IwXadXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAZy9Vc2Vycy9mdXJ1aGFzaGl0b21va2kvU3R1ZHkvdGVjaGFjYWRlbXlfc2NhbGEvc2NhbGEtc2FuZGJveC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTp4aHqHb2nx5qGBm+qRx3iKEQM4A==
+external apis:
+0 items
+source infos:
+1 items
+/Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/project/AutomateScalafmtPlugin.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYH4jBdp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAZy9Vc2Vycy9mdXJ1aGFzaGl0b21va2kvU3R1ZHkvdGVjaGFjYWRlbXlfc2NhbGEvc2NhbGEtc2FuZGJveC9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv

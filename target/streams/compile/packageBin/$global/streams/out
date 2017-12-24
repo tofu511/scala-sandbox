@@ -1,0 +1,17 @@
+[0m[[0minfo[0m] [0mPackaging /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/target/scala-2.12/scala-sandbox_2.12-1.0.0-SNAPSHOT.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	example/Money$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/target/scala-2.12/classes/example/Money$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	example/Money$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/target/scala-2.12/classes/example/Money$.class[0m
+[0m[[0mdebug[0m] [0m	example/MoneyMain.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/target/scala-2.12/classes/example/MoneyMain.class[0m
+[0m[[0mdebug[0m] [0m	example/Money.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/target/scala-2.12/classes/example/Money.class[0m
+[0m[[0mdebug[0m] [0m	example/MoneyMain$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/target/scala-2.12/classes/example/MoneyMain$delayedInit$body.class[0m
+[0m[[0mdebug[0m] [0m	example/MoneyMain$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/target/scala-2.12/classes/example/MoneyMain$.class[0m
+[0m[[0mdebug[0m] [0m	example[0m
+[0m[[0mdebug[0m] [0m	  /Users/furuhashitomoki/Study/techacademy_scala/scala-sandbox/target/scala-2.12/classes/example[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
